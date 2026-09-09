@@ -1,11 +1,10 @@
 { 
   "version": 1,
-
+  
   "data": {
   "GemShop": true,
   "Trading": true,
-  "Crafting": true,
-  },
-  
+  "Crafting": true
+  }
 }
 
